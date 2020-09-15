@@ -1,0 +1,145 @@
+title,tags,mysql,python,php
+Flask-SQLAlchemy - When are the tables/databases created and destroyed?,"['python', 'mysql']",1,1.0,0.0
+Combining two PHP variables for MySQL query,"['php', 'mysql']",1,0.0,1.0
+'Counting' the number of records that match a certain criteria and displaying the numbers (using PHP and MySQL),"['php', 'mysql']",1,0.0,1.0
+Insert new row in a table and auto id number. Php and MySQL,"['php', 'mysql']",1,0.0,1.0
+Create Multiple MySQL tables using PHP,"['php', 'mysql']",1,0.0,1.0
+How to check only the first two letters from a mysql cell?,"['php', 'mysql']",1,0.0,1.0
+simple comment box php and mysql didn't work,"['php', 'mysql']",1,0.0,1.0
+Plotting Histogram: How can I do it from scratch using data stored in a database?,"['python', 'mysql']",1,1.0,0.0
+Handling PyMySql exceptions - Best Practices,"['python', 'mysql']",1,1.0,0.0
+Running php script that connects to mysql db in shell,"['php', 'mysql']",1,0.0,1.0
+Python mysql: Lost connection to MySQL server during query,"['python', 'mysql']",1,1.0,0.0
+Memory leak with large dataset when using mysql-python,"['python', 'mysql']",1,1.0,0.0
+automatically populate table with dummy data in mysql,"['python', 'mysql']",1,1.0,0.0
+Am i doing this wrong. Convert array to array value,"['php', 'mysql']",1,0.0,1.0
+Not enough arguments for format string Python-MySQL,"['python', 'mysql']",1,1.0,0.0
+"Operational Error(2003, ""Can't connect to MySQL server on '127.3.138.130' (111)"")","['python', 'mysql']",1,1.0,0.0
+(flask) python - mysql - using where clause in a select query with variable from URL,"['python', 'mysql']",1,1.0,0.0
+storing enum type variable into database,"['php', 'mysql']",1,0.0,1.0
+Drupal wont change the temporary file path in the database?,"['php', 'mysql']",1,0.0,1.0
+How can i change the language that says in phpMyAdmin in WAMP?,"['php', 'mysql']",1,0.0,1.0
+Create Database If Not Exists with PDO,"['php', 'mysql']",1,0.0,1.0
+"Python: tuple indices must be integers, not str when selecting from mysql table","['python', 'mysql']",1,1.0,0.0
+Getting multiple values of checkbox from a loop,"['php', 'mysql']",1,0.0,1.0
+creating primary key based on date,"['php', 'mysql']",1,0.0,1.0
+python mysql fetch query,"['python', 'mysql']",1,1.0,0.0
+MINUS operator in MySQL?,"['php', 'mysql']",1,0.0,1.0
+Hide / show list in PHP,"['php', 'mysql']",1,0.0,1.0
+Laravel: 1066 Not unique table/alias,"['php', 'mysql']",1,0.0,1.0
+Echo one image from mysql with next/prev button,"['php', 'mysql']",1,0.0,1.0
+Using PyMySQL with MariaDB,"['python', 'mysql']",1,1.0,0.0
+install python MySQLdb to python3 not python,"['python', 'mysql']",1,1.0,0.0
+PHP 5.3 Upgrade - Can't Connect to MySQL Server,"['php', 'mysql']",1,0.0,1.0
+PDO::fetch() LIMIT 1,"['php', 'mysql']",1,0.0,1.0
+"PHP (MySQL) error : ""Warning: mysql_num_rows() expects parameter 1 to be resource""","['php', 'mysql']",1,0.0,1.0
+Connect to RDS from EC2 instance with Python,"['python', 'mysql']",1,1.0,0.0
+Executing a MySQL query on command line via os.system in Python,"['python', 'mysql']",1,1.0,0.0
+"cakephp - building a query with a multi-word search string, searching multiple fields","['php', 'mysql']",1,0.0,1.0
+Join 3 table with doctrine 2 query builder,"['php', 'mysql']",1,0.0,1.0
+How to lock mysql tables in php,"['php', 'mysql']",1,0.0,1.0
+How can I pass an array of PDO parameters yet still specify their types?,"['php', 'mysql']",1,0.0,1.0
+Python and MySQLDB connection to another server on the network,"['python', 'mysql']",1,1.0,0.0
+"Python, MySQL and cursors that fetch maps","['python', 'mysql']",1,1.0,0.0
+how do I add a percentage increase to all product prices in Magento 1.4?,"['php', 'mysql']",1,0.0,1.0
+not all arguments converted during string formatting,"['python', 'mysql']",1,1.0,0.0
+Best Resource for mysql + python 2.6 programming,"['python', 'mysql']",1,1.0,0.0
+adding 2 1/2 hours to a time object in python,"['python', 'mysql']",1,1.0,0.0
+product website with php and mysql,"['php', 'mysql']",1,0.0,1.0
+UnicodeDecodeError: 'ascii' codec can't decode byte 0x96 in position 10: ordinal not in range(128),"['python', 'mysql']",1,1.0,0.0
+PHP mysql_query data size limit?,"['php', 'mysql']",1,0.0,1.0
+How can I use prepared statements combined with Transactions with PHP?,"['php', 'mysql']",1,0.0,1.0
+Accessing MySQL from Python 3: Access denied for user,"['python', 'mysql']",1,1.0,0.0
+Joomla syntax for mysql last inserted id?,"['php', 'mysql']",1,0.0,1.0
+Query Caching in MySQL,"['php', 'mysql']",1,0.0,1.0
+Sorting users by distance in mysql using st_distance,"['php', 'mysql']",1,0.0,1.0
+php md5 password for user login,"['php', 'mysql']",1,0.0,1.0
+update memcache content,"['php', 'mysql']",1,0.0,1.0
+Getting last inserted value in Yii,"['php', 'mysql']",1,0.0,1.0
+Sql Alchemy What is wrong?,"['python', 'mysql']",1,1.0,0.0
+cakephp saving data into database,"['php', 'mysql']",1,0.0,1.0
+Inserting python tuple in a MySQL database,"['python', 'mysql']",1,1.0,0.0
+Pie chart using mysql and php,"['php', 'mysql']",1,0.0,1.0
+How insert multiple rows in mysql table with php array?,"['php', 'mysql']",1,0.0,1.0
+"""Couldn't find class"" Doctrine Subqueries","['php', 'mysql']",1,0.0,1.0
+File Upload working on PHP4 but not PHP5,"['php', 'mysql']",1,0.0,1.0
+Is it possible to fill pdf Fillable forms Using PHP script from MySQL,"['php', 'mysql']",1,0.0,1.0
+"python, NoneType object has no attribute '__getitem__', MySQL query","['python', 'mysql']",1,1.0,0.0
+python mysql Incorrect string value warning,"['python', 'mysql']",1,1.0,0.0
+execute *.sql file with python MySQLdb,"['python', 'mysql']",1,1.0,0.0
+Python MySQL INSERT from csv,"['python', 'mysql']",1,1.0,0.0
+How to get the last inserted id on a table to use it on another insert on another table?,"['php', 'mysql']",1,0.0,1.0
+Write current time plus 5 minutes in MySql from PHP,"['php', 'mysql']",1,0.0,1.0
+calculate price between given dates,"['php', 'mysql']",1,0.0,1.0
+MySQL & PHP - Not unique table/alias,"['php', 'mysql']",1,0.0,1.0
+Deleting an Object from Collection in SQLAlchemy,"['python', 'mysql']",1,1.0,0.0
+Magento Checkbox for bundle products needs qty,"['php', 'mysql']",1,0.0,1.0
+Access denied for user ''@'localhost' to database 'database',"['php', 'mysql']",1,0.0,1.0
+how can i print reports from browser in php,"['php', 'mysql']",1,0.0,1.0
+MySQL: Get data from other table matching the ids,"['php', 'mysql']",1,0.0,1.0
+How should I go about adding slashes to only single quotes and ignoring double quotes?,"['php', 'mysql']",1,0.0,1.0
+SQLAlchemy with PostgreSQL Unicode issue,"['python', 'mysql']",1,1.0,0.0
+imploding a list for use in a python MySQLDB IN clause,"['python', 'mysql']",1,1.0,0.0
+PHP Random String verification from Database,"['php', 'mysql']",1,0.0,1.0
+"How to copy database from MySQL to another database using different python services, ensuring that a row gets copied only once?","['python', 'mysql']",1,1.0,0.0
+MySQL -- Joins Between Databases On Different Servers Using Python?,"['python', 'mysql']",1,1.0,0.0
+"Inserting record to mysql table, via sqlalchemy , with autoinc throws error","['python', 'mysql']",1,1.0,0.0
+Python MySQL Comparing two tables,"['python', 'mysql']",1,1.0,0.0
+mysql order by dayname,"['php', 'mysql']",1,0.0,1.0
+Install mysql in dockerfile?,"['python', 'mysql']",1,1.0,0.0
+how to install mysql on python 2.7.5 and mysql 5.6,"['python', 'mysql']",1,1.0,0.0
+How to trigger mysql event after a time period?,"['php', 'mysql']",1,0.0,1.0
+Can not get mysql-connector-python to install in virtualenv,"['python', 'mysql']",1,1.0,0.0
+How do I build a parameterized PDO statement in PHP for a dynamic query?,"['php', 'mysql']",1,0.0,1.0
+select top 50 records from sql,"['php', 'mysql']",1,0.0,1.0
+Python best practice and securest to connect to MySQL and execute queries,"['python', 'mysql']",1,1.0,0.0
+DELETE from mysql table WHERE column equals value AND column2 equals value2,"['php', 'mysql']",1,0.0,1.0
+get a mysql variable in php,"['php', 'mysql']",1,0.0,1.0
+How to preserve database connection in a python web server,"['python', 'mysql']",1,1.0,0.0
+Where is the Synchronize tab under PhpMyAdmin,"['php', 'mysql']",1,0.0,1.0
+"SQLAlchemy and joins, we have no foreign keys","['python', 'mysql']",1,1.0,0.0
+Search with PHP for calendar dates within a MySQL array?,"['php', 'mysql']",1,0.0,1.0
+Reverse engineer SQLAlchemy declarative class definition from existing MySQL database?,"['python', 'mysql']",1,1.0,0.0
+"Error in SQL syntax, check for right syntax to use near '0' at line 1","['php', 'mysql']",1,0.0,1.0
+SQLAlchemy error MySQL server has gone away,"['python', 'mysql']",1,1.0,0.0
+How to retrieve SQL result column value using column name in Python?,"['python', 'mysql']",1,1.0,0.0
+offset/limit programmatically with python mysqldb,"['python', 'mysql']",1,1.0,0.0
+Php line graph by using GD and MySQL data,"['php', 'mysql']",1,0.0,1.0
+blocking login after X failed attempts,"['php', 'mysql']",1,0.0,1.0
+Remote query in MySQL using python,"['python', 'mysql']",1,1.0,0.0
+Enable executing multiple statements while execution via sqlalchemy,"['python', 'mysql']",1,1.0,0.0
+get the records for the latest timestamp mysql,"['php', 'mysql']",1,0.0,1.0
+"Creating a Simple ""ORM/ActiveRecord"" Pattern","['php', 'mysql']",1,0.0,1.0
+Creating recurring calendar events in PHP/MySQL,"['php', 'mysql']",1,0.0,1.0
+"Proper PDO syntax for parameterized query using LIKE with wildcards (ex %, _)","['php', 'mysql']",1,0.0,1.0
+How can I get every n rows in MySQL?,"['php', 'mysql']",1,0.0,1.0
+php or mysql timestamp off by 7 hours,"['php', 'mysql']",1,0.0,1.0
+Symfony2 - Persist data using a many-to-many relationship,"['php', 'mysql']",1,0.0,1.0
+Object of class PDOStatement could not be converted to string,"['php', 'mysql']",1,0.0,1.0
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax. Password change script,"['php', 'mysql']",1,0.0,1.0
+SQLAlchemy upsert,"['python', 'mysql']",1,1.0,0.0
+how to create a dynamic sql statement w/ python and mysqldb,"['python', 'mysql']",1,1.0,0.0
+Create only ONE table with Flask + SqlAlchemy,"['python', 'mysql']",1,1.0,0.0
+Calling MySQL exe using PHP exec doesn't work,"['php', 'mysql']",1,0.0,1.0
+Difference between pip's mysql-python and apt-get's python-mysqldb,"['python', 'mysql']",1,1.0,0.0
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) symfony2,"['php', 'mysql']",1,0.0,1.0
+Lost connection to MySQL server at 'reading initial communication packet,"['python', 'mysql']",1,1.0,0.0
+How would I do MySQL count(*) in Doctrine2?,"['php', 'mysql']",1,0.0,1.0
+UnicodeEncodeError on MySQL insert in Python,"['python', 'mysql']",1,1.0,0.0
+Use of PDO in classes,"['php', 'mysql']",1,0.0,1.0
+When should I commit with SQLAlchemy using a for loop?,"['python', 'mysql']",1,1.0,0.0
+"Parse error: syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\SLR\CreateData2.php on line 23","['php', 'mysql']",1,0.0,1.0
+Python MySQLdb won't release table lock,"['python', 'mysql']",1,1.0,0.0
+MySQLi prepared statements error reporting,"['php', 'mysql']",1,0.0,1.0
+how to implement a login system under php?,"['php', 'mysql']",1,0.0,1.0
+How to insert / retrieve a file stored as a BLOB in a MySQL db using python,"['python', 'mysql']",1,1.0,0.0
+"Avoiding ""MySQL server has gone away"" on infrequently used Python / Flask server with SQLAlchemy","['python', 'mysql']",1,1.0,0.0
+how to connect to mysql database from gui made in python,"['python', 'mysql']",1,1.0,0.0
+"Installing mysql-python with pip, get ""Failed building wheel for mysql-python""","['python', 'mysql']",1,1.0,0.0
+a better approach than storing mysql password in plain text in config file?,"['php', 'mysql']",1,0.0,1.0
+SQLAlchemy blocked on dropping tables,"['python', 'mysql']",1,1.0,0.0
+"Executing ""SELECT ... WHERE ... IN ..."" using MySQLdb","['python', 'mysql']",1,1.0,0.0
+SQLAlchemy reconnect to db,"['python', 'mysql']",1,1.0,0.0
+mysql Count Distinct and get result using php,"['php', 'mysql']",1,0.0,1.0
+"How to store the result of a radio button with a database value, back into the database?","['php', 'mysql']",1,0.0,1.0
+Use SQL count result in IF statement - PHP,"['php', 'mysql']",1,0.0,1.0
